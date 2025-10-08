@@ -1,0 +1,7 @@
+{
+  "name": "Check-in Huéspedes DNI",
+  "description": "Aplicación para realizar el check-in de huéspedes mediante la lectura del DNI español, extrayendo datos de la zona MRZ y OCR para agilizar el proceso de registro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
